@@ -1,0 +1,3 @@
+Deux executables.
+Serveur doit pouvoir prendre en charge plusieur parties en simultane.
+
