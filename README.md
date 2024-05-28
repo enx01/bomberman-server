@@ -11,7 +11,7 @@ Bomberman server handling multiple games simultaneously.
 ```bash
   $ make
 ```
-then\
+then
 
 ```bash
   $ make rserver
